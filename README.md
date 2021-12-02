@@ -2,6 +2,7 @@
 
 <i><p aligh="justify">
 ¿Qué es BackTracking?.
+
 La técnica de backtracking esta muy asociada a la recursividad, o mas propiamente, a la estructura recursiva de la mayoría de tipos de datos: listas, árboles, etc.
 Esta técnica consiste básicamente en :
 
